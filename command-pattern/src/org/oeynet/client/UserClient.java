@@ -1,13 +1,14 @@
 package org.oeynet.client;
 
 import org.oeynet.cmd.control.TvControl;
-import org.oeynet.cmd.mycmd.ChangeChannelCmd;
-import org.oeynet.cmd.mycmd.TurnOffCmd;
-import org.oeynet.cmd.mycmd.TurnOnCmd;
+import org.oeynet.cmd.cmds.ChangeChannelCmd;
+import org.oeynet.cmd.cmds.TurnOffCmd;
+import org.oeynet.cmd.cmds.TurnOnCmd;
 import org.oeynet.cmd.obj.TvReceiver;
 
 /**
  * Created by zhaojunlike on 2016/11/10.
+ * 用户客户端，初始化control和tv实体
  */
 public class UserClient {
 

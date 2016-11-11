@@ -1,6 +1,5 @@
-package org.oeynet.cmd.mycmd;
+package org.oeynet.cmd.cmds;
 
-import org.oeynet.cmd.abs.TvCommand;
 import org.oeynet.cmd.obj.TvReceiver;
 
 /**

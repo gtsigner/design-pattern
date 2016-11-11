@@ -1,7 +1,7 @@
-package org.oeynet.simple.factory;
+package org.oeynet.factory.factory;
 
-import org.oeynet.simple.game.Game;
-import org.oeynet.simple.game.RPGGame;
+import org.oeynet.factory.game.Game;
+import org.oeynet.factory.game.RPGGame;
 
 /**
  * Created by zhaojunlike on 2016/11/1.

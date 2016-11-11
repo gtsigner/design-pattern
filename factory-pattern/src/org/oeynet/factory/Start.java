@@ -1,8 +1,8 @@
-package org.oeynet.simple;
+package org.oeynet.factory;
 
-import org.oeynet.simple.factory.FPSGameFactory;
-import org.oeynet.simple.factory.GameFactory;
-import org.oeynet.simple.game.Game;
+import org.oeynet.factory.factory.FPSGameFactory;
+import org.oeynet.factory.factory.GameFactory;
+import org.oeynet.factory.game.Game;
 
 import java.lang.*;
 
