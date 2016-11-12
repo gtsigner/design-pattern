@@ -6,7 +6,6 @@ public class GameFactory {
     public static void main(String[] args) {
         System.out.println("demo");
         try {
-
             GameFactory factory = new GameFactory();
             Game game1 = factory.createGame(1);
             Game game2 = factory.createGame(2);
